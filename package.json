@@ -1,0 +1,21 @@
+{
+  "name": "git-pipelines",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghost-sys-coder/devops-pipelines-with-git-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghost-sys-coder/devops-pipelines-with-git-actions/issues"
+  },
+  "homepage": "https://github.com/ghost-sys-coder/devops-pipelines-with-git-actions#readme",
+  "description": ""
+}
